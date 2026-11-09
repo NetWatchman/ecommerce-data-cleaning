@@ -5,4 +5,4 @@
   - 哪些是“脏缺失”（本该有值却丢了 → 要处理）
 4.统计"完全重复行数“，以及"主键（order_id）重复数"。两者为什么可能不相等？
 5. 对数值列跑 describe()，找出"明显超出常识的取值"（不用处理，先记下来）。
-6. 对分类列（gender/status/pay_method/province）打印unique()，找出 "同一含义被写成多种形式"的情况，各举 2 例。
+6. 对分类列（gender/status/pay_method/province）打印unique()，找出 "同一含义被写成多种形式"的情况，各举 2 例。xx
